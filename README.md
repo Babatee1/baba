@@ -1,2 +1,2 @@
-# Data-analyst-mindset
+# Data-analystical-mindset
 Lively-me
